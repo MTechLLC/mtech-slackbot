@@ -2,5 +2,10 @@
   "hubot-diagnostics",
   "hubot-heroku-keepalive",
   "hubot-redis-brain",
-  "hubot-drupal"
+  "hubot-drupal",
+  "hubot-outofcontext",
+  "hubot-factoid",
+  "hubot-cute-me",
+  "hubot-regex",
+  "hubot-bikeshed"
 ]

@@ -5,13 +5,26 @@
   "author": "brian@betaworks.com",
   "description": "Upvote for awesome, downvote for foolish",
   "dependencies": {
+    "cheerio": "^0.20.0",
+    "cleverbot-node": "^0.2.1",
+    "gitio": "^2.1.1",
+    "htmlparser": "^1.7.7",
     "hubot": "^2.18.0",
+    "hubot-bikeshed": "^1.1.0",
+    "hubot-cute-me": "^1.0.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-drupal": "^1.1.0",
+    "hubot-factoid": "0.0.1",
     "hubot-heroku-keepalive": "0.0.4",
+    "hubot-outofcontext": "^1.0.1",
     "hubot-redis-brain": "0.0.2",
+    "hubot-regex": "0.0.3",
     "hubot-scripts": "^2.5.16",
-    "hubot-slack": "^3.3.0"
+    "hubot-slack": "^3.3.0",
+    "jsdom": "^8.4.0",
+    "scraper": "0.0.9",
+    "soupselect": "^0.2.0",
+    "underscore": "^1.8.3"
   },
   "engines": {
     "node": "0.10.x"
