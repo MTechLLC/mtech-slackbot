@@ -7,5 +7,6 @@
   "hubot-factoid",
   "hubot-cute-me",
   "hubot-regex",
-  "hubot-bikeshed"
+  "hubot-bikeshed",
+  "hubot-help"
 ]
